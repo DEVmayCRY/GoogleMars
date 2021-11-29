@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudio\\android-basics-kotlin-mars-photos-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_overview.xml",
+        "source": "D:\\AndroidStudio\\android-basics-kotlin-mars-photos-app-starter\\app\\src\\main\\res\\layout\\fragment_overview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio\\android-basics-kotlin-mars-photos-app-starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\grid_view_item.xml",
+        "source": "D:\\AndroidStudio\\android-basics-kotlin-mars-photos-app-starter\\app\\src\\main\\res\\layout\\grid_view_item.xml"
+    }
+]
